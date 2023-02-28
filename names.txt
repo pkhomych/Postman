@@ -1,7 +1,1 @@
-hello
-andrei 
-are
-you
-Anna
-Ira
-Vika
+Second raw on local device
