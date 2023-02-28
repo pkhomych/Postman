@@ -1,9 +1,0 @@
-Second raw on local device
-hello
-andrei 
-are
-you
-Anna
-Ira
-Vika
-New raw for conflict
